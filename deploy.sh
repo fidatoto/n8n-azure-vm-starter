@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Variables
+# Variables del grupo de recurso
 RESOURCE_GROUP="n8n-rg"
 LOCATION="eastus"
 VM_NAME="n8n-vm"
